@@ -1,3 +1,9 @@
+---
+title: Крипто Airdrops 2026
+description: Новые крипто airdrops, testnet проекты и бесплатные раздачи токенов. Подписывайтесь на Telegram чтобы не пропускать новые возможности.
+image: airdrop.png
+---
+
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/crypto-airdrops-2026">🇺🇸 English</a>
 </p>
