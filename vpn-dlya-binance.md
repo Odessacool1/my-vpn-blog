@@ -6,7 +6,7 @@
 
 ![VPN](vpn-image.jpg)
 
-👉 **[Получить скидку 10%](https://fornex.com/code/v1j0nv/)**
+👉 **[Получить скидку 10%](https://fornex.com/code/v1j0nv/) на всегда**
 
 ## Быстрый VPN для Binance, Bybit, OKX и других криптосервисов
 
