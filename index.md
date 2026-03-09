@@ -1,8 +1,6 @@
 <p align="right">
-<a href="https://odessacool1.github.io/vpn-global-blog/">English version</a>
+🇷🇺 <b>Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>
 </p>
-
-# Свободный интернет без границ
 # Свободный интернет без границ
 
 ![VPN](vpn-image.jpg)
