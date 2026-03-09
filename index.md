@@ -72,7 +72,7 @@ Fornex подходит для:
 
 ## VPN от Fornex
 
-![Fornex Hosting](vpn-image2.jpg)
+![Fornex Hosting](vpn-image21.jpg)
 
 VPN от Fornex предлагает:
 
@@ -107,7 +107,7 @@ VPN от Fornex предлагает:
 
 ## Для крипто-пользователей
 
-![Unlimited VPN](vpn-image3.jpg)
+![Unlimited VPN](vpn-image31.jpg)
 
 Криптоинфраструктура требует стабильности и скорости.
 
