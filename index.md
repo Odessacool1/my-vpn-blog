@@ -1,6 +1,6 @@
 # Свободный интернет без границ
 
-![VPN](vpn.jpg)
+![VPN](vpn-image.jpg)
 
 ## [Премиум VPN](https://fornex.com/code/v1j0nv/) и мощный хостинг от Fornex
 
@@ -110,6 +110,8 @@ VPN от Fornex позволяет:
 
 # VPS серверы
 
+![VPN](vpn-image3.jpg)
+
 Fornex предлагает мощные VPS решения:
 
 - виртуализация KVM  
@@ -126,6 +128,8 @@ Fornex предлагает мощные VPS решения:
 - приложений  
 
 ---
+
+![VPN](vpn-image2.jpg)
 
 # Выделенные серверы
 
