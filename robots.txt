@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://odessacool1.github.io/my-vpn-blog/sitemap.xml
