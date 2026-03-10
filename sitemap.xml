@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
@@ -13,30 +14,42 @@
 
 <url>
 <loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-kripty.html</loc>
+<priority>0.8</priority>
 </url>
 
 <url>
 <loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-binance.html</loc>
+<priority>0.8</priority>
 </url>
 
 <url>
 <loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-trejdinga.html</loc>
+<priority>0.8</priority>
 </url>
 
 <url>
 <loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-defi.html</loc>
+<priority>0.8</priority>
 </url>
 
 <url>
 <loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-stakinga.html</loc>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-razrabotchikov.html</loc>
+<priority>0.8</priority>
 </url>
 
 <url>
 <loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-netflix.html</loc>
+<priority>0.8</priority>
 </url>
 
 <url>
 <loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-youtube.html</loc>
+<priority>0.8</priority>
 </url>
 
 </urlset>
