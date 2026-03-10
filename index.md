@@ -1,3 +1,7 @@
+## VPN Guide 2026
+
+[Лучший VPN 2026](vpn-guide-2026-ru.html)
+
 <p align="right">
 🇷🇺 <b>Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>
 </p>
