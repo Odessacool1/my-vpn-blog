@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://odessacool1.github.io/my-vpn-blog/vpn-guide-2026-ru.html</loc>
-</url>
-<lastmod>2026-03-09</lastmod>
-<changefreq>monthly</changefreq>
+<loc>https://odessacool1.github.io/my-vpn-blog/</loc>
 <priority>1.0</priority>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-guide-2026-ru.html</loc>
+<priority>0.9</priority>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-kripty.html</loc>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-binance.html</loc>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-trejdinga.html</loc>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-defi.html</loc>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-stakinga.html</loc>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-netflix.html</loc>
+</url>
+
+<url>
+<loc>https://odessacool1.github.io/my-vpn-blog/vpn-dlya-youtube.html</loc>
 </url>
 
 </urlset>
