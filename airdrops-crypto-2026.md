@@ -9,7 +9,7 @@ image: airdrop.png
 </p>
 
 <p align="center">
-<a href="https://t.me/skyfor1" style="display:inline-block;padding:12px 22px;background:#2b7fff;color:white;text-decoration:none;border-radius:8px;font-weight:bold;">
+<a href="https://t.me/+hRfaPrLw_CNiMjUy" style="display:inline-block;padding:12px 22px;background:#2b7fff;color:white;text-decoration:none;border-radius:8px;font-weight:bold;">
 🚀 Перейти в Telegram по Airdrops
 </a>
 </p>
@@ -90,7 +90,7 @@ Airdrop — это бесплатная раздача токенов, кото�
 - инструкциях по участию
 - полезных гайдах для новичков
 
-👉 **[Подписаться на Telegram по Airdrops](https://t.me/skyfor1)**
+👉 **[Подписаться на Telegram по Airdrops](https://t.me/+hRfaPrLw_CNiMjUy)**
 
 ---
 
