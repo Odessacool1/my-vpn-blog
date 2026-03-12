@@ -12,6 +12,8 @@
             --card-bg: #161b2c;
             --accent: #3b82f6;
             --success: #10b981;
+            --twitter: #1d9bf0;
+            --tg: #229ED9;
             --text-main: #f3f4f6;
             --text-dim: #9ca3af;
         }
@@ -32,7 +34,6 @@
             padding: 60px 20px;
         }
 
-        /* Шапка сайта */
         header {
             text-align: center;
             margin-bottom: 50px;
@@ -54,13 +55,16 @@
             margin: 0 auto 30px;
         }
 
-        .lang-switch {
-            display: inline-flex;
-            gap: 10px;
+        .nav-bar {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
             margin-bottom: 40px;
+            flex-wrap: wrap;
         }
 
-        .lang-btn {
+        .nav-link {
             background: rgba(255,255,255,0.05);
             border: 1px solid rgba(255,255,255,0.1);
             padding: 8px 16px;
@@ -69,14 +73,22 @@
             text-decoration: none;
             font-size: 14px;
             transition: 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
 
-        .lang-btn:hover {
+        .nav-link:hover {
             background: var(--accent);
             border-color: var(--accent);
         }
 
-        /* Главная рекомендация (Оффер Fornex) */
+        .nav-link.tg-link {
+            background: rgba(34, 158, 217, 0.1);
+            border-color: var(--tg);
+            color: #7dd3fc;
+        }
+
         .top-choice {
             background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(16, 185, 129, 0.15) 100%);
             border: 1px solid var(--accent);
@@ -99,10 +111,8 @@
             transform: rotate(45deg);
             font-size: 10px;
             font-weight: bold;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
         }
 
-        /* Сетка гайдов */
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -123,21 +133,6 @@
         .card:hover {
             transform: translateY(-5px);
             border-color: var(--accent);
-            background: rgba(22, 27, 44, 0.8);
-        }
-
-        .card h2 {
-            font-size: 20px;
-            margin: 0 0 12px 0;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .card p {
-            font-size: 14px;
-            color: var(--text-dim);
-            margin-bottom: 20px;
         }
 
         .btn {
@@ -150,7 +145,6 @@
             border-radius: 8px;
             font-weight: 600;
             transition: 0.3s;
-            cursor: pointer;
         }
 
         .btn-outline {
@@ -159,9 +153,55 @@
             color: var(--accent);
         }
 
-        .btn:hover {
-            filter: brightness(1.2);
-            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4);
+        /* Кнопка Twitter */
+        .share-section {
+            margin-top: 50px;
+            text-align: center;
+            padding: 30px;
+            background: rgba(255,255,255,0.02);
+            border-radius: 16px;
+        }
+
+        .twitter-btn {
+            background: var(--twitter);
+            padding: 12px 25px;
+            border-radius: 30px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            transition: 0.3s;
+        }
+
+        .twitter-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(29, 155, 240, 0.3);
+        }
+
+        /* Плавающая кнопка TG */
+        .floating-tg {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: var(--tg);
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 10px 25px rgba(34, 158, 217, 0.4);
+            transition: 0.3s;
+            z-index: 1000;
+            text-decoration: none;
+            color: white;
+            font-size: 24px;
+        }
+
+        .floating-tg:hover {
+            transform: scale(1.1) rotate(5deg);
         }
 
         footer {
@@ -169,27 +209,30 @@
             text-align: center;
             font-size: 12px;
             color: var(--text-dim);
-            border-top: 1px solid rgba(255,255,255,0.05);
-            padding-top: 30px;
+            padding-bottom: 40px;
         }
     </style>
 </head>
 <body>
 
+<a href="https://t.me/+hRfaPrLw_CNiMjUy" class="floating-tg" target="_blank" title="Присоединяйтесь в Telegram">
+    ✈️
+</a>
+
 <div class="container">
     <header>
         <h1>Гайд по безопасности 2026</h1>
-        <p class="subtitle">Профессиональная инфраструктура для крипто-трейдеров, разработчиков и тех, кто ценит приватность.</p>
+        <p class="subtitle">Профессиональная инфраструктура для трейдеров и разработчиков.</p>
         
-        <div class="lang-switch">
-            <a href="https://odessacool1.github.io/vpn-global-blog/vpn-guide-2026.html" class="lang-btn">🇺🇸 English Version</a>
-            <a href="#" class="lang-btn">🇷🇺 Русский</a>
+        <div class="nav-bar">
+            <a href="https://odessacool1.github.io/vpn-global-blog/vpn-guide-2026.html" class="nav-link">🇺🇸 English</a>
+            <a href="https://t.me/+hRfaPrLw_CNiMjUy" class="nav-link tg-link" target="_blank">✈️ Мой Telegram</a>
         </div>
     </header>
 
     <div class="top-choice">
         <h2>⚡ Рекомендация профи</h2>
-        <p>Для 100% безопасности на Binance и других биржах мы рекомендуем использовать <b>Личный VPS</b> вместо публичных VPN. Получите чистый выделенный IP-адрес в Европе, чтобы избежать блокировок аккаунта.</p>
+        <p>Для 100% безопасности на Binance мы рекомендуем использовать <b>Личный VPS</b>. Получите чистый выделенный IP-адрес в Европе, чтобы избежать блокировок.</p>
         <a class="btn" href="https://fornex.com/virtual-private-servers/" target="_blank">Получить свой VPS (€5.50)</a>
     </div>
 
@@ -197,7 +240,7 @@
         <div class="card">
             <div>
                 <h2>₿ VPN для крипты</h2>
-                <p>Защитите транзакции своего кошелька и обходите любые региональные ограничения.</p>
+                <p>Защитите транзакции кошелька и обходите ограничения.</p>
             </div>
             <a class="btn btn-outline" href="vpn-dlya-kripty.html">Читать гайд</a>
         </div>
@@ -205,7 +248,7 @@
         <div class="card">
             <div>
                 <h2>🔶 VPN для Binance</h2>
-                <p>Забудьте о блокировках за "подозрительную активность" благодаря чистому IP.</p>
+                <p>Безопасный доступ к бирже через чистые IP адреса.</p>
             </div>
             <a class="btn btn-outline" href="vpn-dlya-binance.html">Читать гайд</a>
         </div>
@@ -213,7 +256,7 @@
         <div class="card">
             <div>
                 <h2>📊 Для трейдинга</h2>
-                <p>Минимальный пинг для MetaTrader, TradingView и торговых ботов.</p>
+                <p>Низкий пинг для ботов и торговых терминалов.</p>
             </div>
             <a class="btn btn-outline" href="vpn-dlya-trejdinga.html">Читать гайд</a>
         </div>
@@ -221,30 +264,22 @@
         <div class="card">
             <div>
                 <h2>💻 Разработчикам</h2>
-                <p>Безопасные SSH-туннели, выделенные окружения и стабильный воркфлоу.</p>
+                <p>SSH-туннели и стабильный доступ к GitHub/CI-CD.</p>
             </div>
             <a class="btn btn-outline" href="vpn-dlya-razrabotchikov.html">Читать гайд</a>
         </div>
+    </div>
 
-        <div class="card">
-            <div>
-                <h2>📺 Стриминг и ТВ</h2>
-                <p>Стабильный доступ к Netflix, YouTube и заблокированным медиа-ресурсам.</p>
-            </div>
-            <a class="btn btn-outline" href="vpn-dlya-netflix.html">Открыть доступ</a>
-        </div>
-
-        <div class="card">
-            <div>
-                <h2>🛡️ Для DeFi и Стейкинга</h2>
-                <p>Максимальная защита при работе с протоколами и смарт-контрактами.</p>
-            </div>
-            <a class="btn btn-outline" href="vpn-dlya-defi.html">Изучить защиту</a>
-        </div>
+    <div class="share-section">
+        <h3>Понравился гайд?</h3>
+        <p>Поделись с коллегами-трейдерами в Twitter!</p>
+        <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20VPN%20and%20VPS%20guide%20for%20crypto%20traders%202026!%20&url=https://odessacool1.github.io/vpn-global-blog/vpn-guide-2026-ru.html" class="twitter-btn" target="_blank">
+            🐦 Поделиться в Twitter
+        </a>
     </div>
 
     <footer>
-        <p>&copy; 2026 Global Privacy Project. Создано для крипто-сообщества.</p>
+        <p>&copy; 2026 Global Privacy Project. Сделано для сообщества.</p>
     </footer>
 </div>
 
