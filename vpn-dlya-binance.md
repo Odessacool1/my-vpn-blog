@@ -4,7 +4,7 @@
 
 # VPN для Binance: зачем он нужен криптотрейдерам
 
-![VPN для Binance](images/vpn-binance.png)
+![VPN для Binance](vpn-dlya-binance.png)
 
 👉 **[Получить скидку 10%](https://fornex.com/code/v1j0nv/)**
 
