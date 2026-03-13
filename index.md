@@ -12,7 +12,7 @@
 
 > **Быстрый переход:** [🔥 Главный гайд по VPN 2026](vpn-guide-2026-ru.html)
 
-![VPN Header](vpn-image.jpg)
+![VPN Header](vpn-image1.jpg)
 
 ## 🚀 Премиум VPN и инфраструктура от Fornex
 
