@@ -94,7 +94,7 @@
             color: #7dd3fc;
         }
 
-        /* Блок с рекомендацией и ФИНАЛЬНО исправленной ленточкой */
+        /* Expert Choice Ribbon - Final Fix */
         .top-choice {
             background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(16, 185, 129, 0.15) 100%);
             border: 1px solid var(--accent);
@@ -106,7 +106,6 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
         }
 
-        /* Исправленная ленточка: фиксированная ширина и точные координаты */
         .top-choice::before {
             content: "ВЫБОР ЭКСПЕРТА 2026";
             position: absolute;
@@ -170,7 +169,7 @@
             color: white;
         }
 
-        /* --- Секция Crypto Tools Hub --- */
+        /* Crypto Tools Hub Section */
         .tools-hub {
             background: linear-gradient(145deg, rgba(255, 255, 255, 0.03) 0%, rgba(59, 130, 246, 0.1) 100%);
             border: 1px dashed rgba(59, 130, 246, 0.4);
@@ -224,7 +223,34 @@
             color: white;
         }
 
-        /* --- Floating TG Button --- */
+        /* Twitter Share Section */
+        .share-section {
+            margin-top: 50px;
+            text-align: center;
+            padding: 30px;
+            background: rgba(255,255,255,0.02);
+            border-radius: 16px;
+        }
+
+        .twitter-btn {
+            background: var(--twitter);
+            padding: 12px 25px;
+            border-radius: 30px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            transition: 0.3s;
+        }
+
+        .twitter-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(29, 155, 240, 0.3);
+        }
+
+        /* Floating TG Button */
         .floating-tg {
             position: fixed;
             bottom: 30px;
@@ -244,10 +270,6 @@
             font-size: 24px;
         }
 
-        .floating-tg:hover {
-            transform: scale(1.1) rotate(5deg);
-        }
-
         footer {
             margin-top: 60px;
             text-align: center;
@@ -259,9 +281,7 @@
 </head>
 <body>
 
-<a href="https://t.me/+hRfaPrLw_CNiMjUy" class="floating-tg" target="_blank" title="Наш Telegram">
-    ✈️
-</a>
+<a href="https://t.me/+hRfaPrLw_CNiMjUy" class="floating-tg" target="_blank">✈️</a>
 
 <div class="container">
     <header>
@@ -346,6 +366,14 @@
             Перейти в Tools Hub →
         </a>
     </section>
+
+    <div class="share-section">
+        <h3>Было полезно?</h3>
+        <p>Помогите другим трейдерам, поделившись этим гайдом в Twitter!</p>
+        <a href="https://twitter.com/intent/tweet?text=Нашел%20отличный%20гайд%20по%20VPN%20и%20VPS%20для%20криптотрейдеров%202026!&url=https://odessacool1.github.io/my-vpn-blog/vpn-guide-2026-ru.html" class="twitter-btn" target="_blank">
+            🐦 Поделиться в Twitter
+        </a>
+    </div>
 
     <footer>
         <p>&copy; 2026 Global Privacy Project. Создано для крипто-сообщества.</p>
