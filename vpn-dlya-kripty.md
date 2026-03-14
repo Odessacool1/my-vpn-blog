@@ -2,6 +2,7 @@
 title: VPN для Крипты - Безопасность и Анонимность
 description: Защитите свои криптоактивы, кошельки Web3 и трейдинг-аккаунты. Как VPN защищает вас в публичных сетях.
 layout: default
+nav_exclude: true
 ---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>

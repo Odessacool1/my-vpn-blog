@@ -2,6 +2,7 @@
 title: VPN для Streaming & Netflix - Контент Без Границ
 description: Смотрите Netflix, YouTube, Spotify и играйте в онлайн-игры без региональных ограничений и тормозов с быстрым VPN.
 layout: default
+nav_exclude: true
 ---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>

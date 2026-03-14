@@ -2,6 +2,7 @@
 title: VPN для Поднятия Нод - Стабильная Инфраструктура
 description: Как использовать VPN и выделенные серверы для безопасного запуска крипто-нод, тестнетов и валидаторов.
 layout: default
+nav_exclude: true
 ---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>

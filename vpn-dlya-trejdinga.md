@@ -2,6 +2,7 @@
 title: VPN для Трейдинга - Стабильность для Бирж
 description: Быстрый VPN с низким пингом для активных трейдеров. Безопасность на Bybit, OKX, Binance и TradingView.
 layout: default
+nav_exclude: true
 ---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>

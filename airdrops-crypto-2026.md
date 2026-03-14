@@ -2,6 +2,7 @@
 title: Крипто Airdrops 2026
 description: Новые крипто airdrops, testnet проекты и бесплатные раздачи токенов. Подписывайтесь на Telegram чтобы не пропускать новые возможности.
 image: airdrop.png
+nav_exclude: true
 ---
 
 <p align="right">

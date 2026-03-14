@@ -2,6 +2,7 @@
 title: VPN для YouTube - Просмотр без Тормозов
 description: Загружайте видео на YouTube в высоком качестве без буферизации. Быстрый VPN для обхода замедлений и блокировок 2026.
 layout: default
+nav_exclude: true
 ---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>

@@ -2,6 +2,7 @@
 title: VPN для DeFi Стейкинга - Безопасный Пассивный Доход
 description: Защитите свои активы при стейкинге криптовалют. Безопасное подключение к децентрализованным протоколам через VPN.
 layout: default
+nav_exclude: true
 ---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>
