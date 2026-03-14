@@ -1,3 +1,8 @@
+---
+title: VPN для Разработчиков - Приватность и Инфраструктура
+description: Надежный VPN для DevOps, SSH-доступа, работы с GitHub и удаленными серверами. Стабильный маршрут для разработчиков.
+layout: default
+---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>
 </p>

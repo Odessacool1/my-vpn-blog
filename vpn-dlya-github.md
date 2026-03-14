@@ -1,3 +1,8 @@
+---
+title: VPN для GitHub - Быстрый Доступ для Разработчиков
+description: Зачем GitHub-разработчикам VPN. Обход блокировок, защита инфраструктуры и безопасный доступ к удаленным репозиториям.
+layout: default
+---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>
 </p>

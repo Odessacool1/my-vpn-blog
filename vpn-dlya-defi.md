@@ -1,3 +1,8 @@
+---
+title: VPN для DeFi - Защита Web3 Кошельков
+description: Почему пользователям DeFi нужен VPN. Анонимная работа с Uniswap, Raydium и PancakeSwap. Стабильное соединение с RPC.
+layout: default
+---
 <p align="right">
 <b>🇷🇺 Русский</b> | <a href="https://odessacool1.github.io/vpn-global-blog/">🇺🇸 English</a>
 </p>

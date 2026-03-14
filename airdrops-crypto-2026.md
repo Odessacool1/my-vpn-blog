@@ -112,4 +112,8 @@ Airdrops — это один из самых интересных способо
 
 Если вы хотите регулярно получать информацию о новых раздачах, testnet проектах и криптовозможностях, переходите в мой Telegram.
 
-👉 **[Перейти в Telegram](https://t.me/ТВОЙ_ТЕЛЕГРАМ)**
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <a href="https://t.me/+hRfaPrLw_CNiMjUy" target="_blank" style="display:inline-block; padding:15px 30px; background-color:#0088cc; color:white; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow: 0 4px 6px rgba(0, 136, 204, 0.3); transition: all 0.3s ease;">
+    ✈️ ПЕРЕЙТИ В TELEGRAM ПО AIRDROPS
+  </a>
+</p>
